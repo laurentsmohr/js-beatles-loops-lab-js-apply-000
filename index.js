@@ -14,7 +14,6 @@ The function should return an array of strings with exclamation points.
 */
 
 function johnLennonFacts(arr) {
-  debugger;
   var i = 0;
   while (i < arr.length) {
     arr[i] = arr[i] + "!!!";
